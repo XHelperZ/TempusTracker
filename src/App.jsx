@@ -27,7 +27,7 @@ function App() {
         muted={true} 
         style={{ display: 'none' }} 
       >
-        <source src="/Amazing_Plan.mp3" type="audio/mp3" />
+        <source src="./Amazing_Plan.mp3" type="audio/mp3" />
         Your browser does not support the audio element.
       </audio>
 
