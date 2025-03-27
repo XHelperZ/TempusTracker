@@ -34,6 +34,7 @@ function App() {
       {/* Content */}
       <h1>Is Tempus Still down?</h1>
       <TempusTracker />
+      <sub>Servers up? Fuck you they are fake. No bloody ranked, no bloody timer, it's all in yer bloody head mate.</sub>
     </div>
   );
 }
